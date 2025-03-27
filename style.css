@@ -113,6 +113,7 @@
     position: absolute;
     top: 350px;
     left:750px;
+    cursor: pointer;
 }
 .noscroll {
     overflow: hidden; /* Disables scrolling */
