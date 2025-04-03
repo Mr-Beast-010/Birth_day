@@ -191,7 +191,7 @@ window.addEventListener("DOMContentLoaded", () => {
     document.body.classList.add("noscroll");
 
     // Set the target date and time (Example: March 30, 2025, at 15:30:00)
-    const targetDate = new Date("June 6, 2025 00:01:00").getTime();
+    const targetDate = new Date("April 3, 2025 22:35:00").getTime();
 
     // Countdown function
     const updateCountdown = setInterval(() => {
